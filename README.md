@@ -1,6 +1,6 @@
 # Predicting-price-of-books
 
-![image](https://giphy.com/gifs/satishgaire-hustle-make-money-flip-book-kgVEHd4KUXsdkzlmri)
+![https://www.backstage.com/magazine/article/books-every-actor-shelf-10187/](title.jpg)
 
 Hackathon conducted on Machinehack to predict the price of books find which feature are affecting the price more and train your model with your choice of machine learning model.
 ## Tools utilized
